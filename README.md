@@ -10,4 +10,5 @@ CSS:
 
 JAVASCRIPT:
   Little bit of javasript technique is used for the reservation.
-    
+
+     Akk are embeded into a same html file.
